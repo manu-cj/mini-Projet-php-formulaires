@@ -11,7 +11,7 @@ gestion des routes
 
 #Formulaire de contact
 
-page index -> du lorem + menu
+**page index -> du lorem + menu**
 
 page contact -> formulaire de contact + menu
 
