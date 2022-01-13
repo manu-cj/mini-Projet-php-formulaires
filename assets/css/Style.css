@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100%;
+    padding: 1rem;
+    background-color: #5a8383;
+}
+nav * {
+    color: #f5d6d6;
+    list-style-type: none;
+    text-decoration-line: none;
+    display: inline;
+    font-size: 2rem;
+}
