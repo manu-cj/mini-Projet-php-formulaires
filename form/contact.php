@@ -6,7 +6,7 @@ require __DIR__ . "/../footer.php";
 ?>
 
 
-<form method="post" action="Verification.php">
+<form method="post" action="contact-form.php">
     <div>
         <label for="id-mail">Adresse mail :</label>
         <input type="email" name="mail" id="id-mail">
