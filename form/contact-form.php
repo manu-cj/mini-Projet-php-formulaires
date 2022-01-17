@@ -24,5 +24,5 @@ if(isset($_POST['submit'])) {
     <?php
 }
 else {
-    header('Location: /contact.php');
+    header('Location: ./form/contact.php');
 }
